@@ -1,3 +1,3 @@
 # RT
 
-RT Investmenta,s.r.o. GitHub repository
+RT Investment,s.r.o. GitHub repository
